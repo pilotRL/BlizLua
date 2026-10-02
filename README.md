@@ -1,2 +1,2 @@
 # BlizLua
-My lua
+A own written framework for xplane
